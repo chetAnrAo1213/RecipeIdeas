@@ -1,0 +1,7 @@
+
+
+revise all the react notes
+practice some coding and learn projects
+learn python and revise Numpy and pandas
+revise about LLM's and its types
+learn transformers and Vision Models
