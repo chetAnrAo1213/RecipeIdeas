@@ -1,5 +1,8 @@
 # Task-3: Recipe Ideas
 
+# Deployment Link :
+Link : [View on Netlify](https://task3-recipeidea.netlify.app/)
+
 # Challenge
 i) Develop a web application for Taylor that provides personalized recipe suggestions based on his needs.
 
@@ -15,7 +18,7 @@ API : TheMealDb.
 Ide : VsCode.
 
 
-# Apporach
+# Apporach :
 Used Axios Library to make the API calls to fetch the data.
 
 Used Bootstrap to maintain the responsiveness of the application.
@@ -23,3 +26,4 @@ Used Bootstrap to maintain the responsiveness of the application.
 Studied the API Documentation to understand the QueryParameters of the URL and Test those on POSTMAN.
 
 Fetched revelant data that will be useful for the User(Taylor).
+
