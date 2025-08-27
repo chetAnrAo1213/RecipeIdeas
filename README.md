@@ -1,7 +1,7 @@
 # Task-3: Recipe Ideas
 
 # Deployment Link :
-Link : [View on Netlify](https://task3-recipeidea.netlify.app/)
+Link : [Recipe Ideas](https://task3-recipeidea.netlify.app/)
 
 # Challenge
 i) Develop a web application for Taylor that provides personalized recipe suggestions based on his needs.
